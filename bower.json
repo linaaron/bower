@@ -18,6 +18,6 @@
     "angular": "1.2.16"
   },
   "ignore": [
-    "README.md"
+    ".gitignore"
   ]
 }
